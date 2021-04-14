@@ -6,6 +6,7 @@ import 'transaction.dart';
 import './chart.dart';
 import 'package:flutter/services.dart';
 
+// ham` chay ung dung !
 void main() {
 
   runApp(MyApp());
